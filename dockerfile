@@ -1,5 +1,5 @@
 # Use an official Node.js runtime as a parent image
-FROM node:21.6.1-bookworm-slim 
+FROM node:21.7.0-bookworm-slim 
 
 # Set the working directory in the container
 WORKDIR /usr/src/app
